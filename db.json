@@ -1,16 +1,14 @@
-{
-    "blogs": [
-        {
-            "id": "more1",
-            "title": "BLOG"
-        },
-        {
-            "id": "more2",
-            "title": "ARTICLES"
-        },
-        {
-            "id": "more3",
-            "title": "WHITEPAPERS"
-        }
-    ]
-}
+[
+  {
+    "id": 1,
+    "title": "Post 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
+  }
+]
